@@ -1,6 +1,24 @@
 .DS_Store
 build
-*.iml
+/out/
+target
+classes
+
 .idea
+/.idea/
+
 test_cases/java_turnstile/.idea
+
+.gradle
+bin
+build
+.settings
+.classpath
+.project
+*.iml
+*.log
+*.ipr
+*.iws
+*.swp
+metastore_db
 
